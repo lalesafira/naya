@@ -1,0 +1,2 @@
+# naya
+Latihan
